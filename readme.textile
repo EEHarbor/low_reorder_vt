@@ -4,5 +4,6 @@ This variable type for "Low Variables":http://gotolow.com/addons/low-variables w
 
 h2. Installation
 
-* Copy the @low_reorder_vt@ folder to your @system/expressionengine/third_party/low_variables/types@ directory
-* Enable the new variable type in the Low Variables extension settings
+* "Download":https://github.com/lodewijk/low_reorder_vt/zipball/master and unzip;
+* Copy the @low_reorder_vt@ folder to your @system/expressionengine/third_party/low_variables/types@ directory;
+* Enable the new variable type in the Low Variables extension settings.
