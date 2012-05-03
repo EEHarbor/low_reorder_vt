@@ -1,0 +1,8 @@
+h1. Low Reorder variable type for Low Variables
+
+This variable type for "Low Variables":http://gotolow.com/addons/low-variables will create a drop down of "Low Reorder":http://gotolow.com/addons/low-reorder Sets and will save its ID as the value. This requires Low Reorder v2.0.0+.
+
+h2. Installation
+
+* Copy the @low_reorder_vt@ folder to your @system/expressionengine/third_party/low_variables/types@ directory
+* Enable the new variable type in the Low Variables extension settings
